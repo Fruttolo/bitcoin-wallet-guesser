@@ -1,0 +1,4 @@
+.env
+log.txt
+*.db
+__pycache__
